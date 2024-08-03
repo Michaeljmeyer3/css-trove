@@ -1,0 +1,13 @@
+/* Link is the normal appearance
+ :hover is when you mouse over
+ :active is the state when it's clicked
+ :focus follows active
+ :visited after 'unfocusing' the recently clicked link. */
+
+ 
+
+ /* 
+  .modal-close:focus {}
+  .modal-close:hover {}
+  .modal-close:active {}
+*/
